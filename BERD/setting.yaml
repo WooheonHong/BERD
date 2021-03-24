@@ -1,0 +1,18 @@
+data:
+  load_or_not: false
+  n_papers: 50
+  n_sentences: 2
+  query:
+    - macrolactin
+    - iridovirus
+  save_dir: /home/wooheon
+  swanson: true
+  type_scispacy: en_core_sci_scibert
+plot:
+  above_weight: 1.0
+  cutoff: 4
+  layout_algo: fr
+  layout_dim: 3
+  n_nodes: 10
+  n_paths: 20
+  radius: 1

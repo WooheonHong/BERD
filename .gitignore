@@ -1,0 +1,24 @@
+tests/ 
+
+# user table 
+data.sqlite
+
+# Document resource
+_themes/
+doctrees/
+
+doc.bat
+Makefile
+make.bat
+
+# build
+build/
+dist/
+.vscode/
+*.egg-info/
+
+# backups
+_backup/
+
+__pycache__
+.ipynb_checkpoints
