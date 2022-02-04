@@ -11,7 +11,7 @@ Identify the connection relationship between entitiy in the papers in [PubMed](h
 
 Find the relationship between entities based on one sentence, consecutive sentences(in this setting, [**Swanson ABC model**](https://www.sciencedirect.com/science/article/pii/S1532046412001517) can be used) or entire papers.
 
-It also supports relation network for three or more queries.
+It can supports relation network for three or more queries.
 
 ![figure_BERD](BERD/resources/figure_BERD.PNG)
 
