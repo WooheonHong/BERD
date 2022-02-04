@@ -9,7 +9,7 @@ This is biomedical entity relation network.
 
 Identify the connection relationship between entitiy in the papers in [PubMed](https://pubmed.ncbi.nlm.nih.gov/). 
 
-Find the relationship between entities based on one sentence, consecutive sentences(in this setting, [**Swanson ABC model**](https://www.sciencedirect.com/science/article/pii/S1532046412001517) can be used) or entire
+Find the relationship between entities based on one sentence, consecutive sentences(in this setting, [**Swanson ABC model**](https://www.sciencedirect.com/science/article/pii/S1532046412001517) can be used) or entire paper.
 
 ![figure_BERD](BERD/resources/figure_BERD.PNG)
 
