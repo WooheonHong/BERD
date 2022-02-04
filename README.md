@@ -1,8 +1,10 @@
-# Biomedical Entity Relation Detection
+Biomedical Entity Relation Detection
+=====================================
 
-Postech DI Lab project in 2021/2
+**Author:** *[Wooheon Hong](https://www.linkedin.com/in/wooheon-hong-b33621200/)*, *[Jaehyun Lee](https://www.linkedin.com/in/jaehyun-lee-56613a1ba/)* 
+**Date:** 2020.12.20 ~ 2021. 03. 29
 
-It shows biomedical entity relation network 
+This is biomedical entity relation network  
 
 ![figure_BERD](BERD/resources/figure_BERD.PNG)
 
