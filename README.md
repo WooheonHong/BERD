@@ -5,7 +5,10 @@ Biomedical Entity Relation Detection
 
 **Date:** 2020.12.20 ~ 2021. 03. 29
 
-This is biomedical entity relation network  
+This is biomedical entity relation network.
+
+Identify the connection relationship between entitiy in the papers in [PubMed](https://pubmed.ncbi.nlm.nih.gov/). 
+One sentence, consecutive sentences, entire thesis, and the Swanson abc model can be used.
 
 ![figure_BERD](BERD/resources/figure_BERD.PNG)
 
