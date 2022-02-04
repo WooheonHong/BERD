@@ -9,7 +9,7 @@ This is biomedical entity relation network.
 
 Identify the connection relationship between entitiy in the papers in [PubMed](https://pubmed.ncbi.nlm.nih.gov/). 
 
-One sentence, consecutive sentences, entire thesis, and the Swanson abc model can be used.
+One sentence, consecutive sentences([**Swanson ABC model**](https://www.sciencedirect.com/science/article/pii/S1532046412001517) can be used) and entire thesis can be used.
 
 ![figure_BERD](BERD/resources/figure_BERD.PNG)
 
@@ -60,7 +60,7 @@ python test_model.py
     The amount of entity pairs is large in order 0 > 2 > 1.
 
 - is_swanson
-    - Using **[Swanson ABC model](https://www.sciencedirect.com/science/article/pii/S1532046412001517)**
+    - Using Swanson ABC model
     - n_sentence must be 2
 
 - type_scispacy
