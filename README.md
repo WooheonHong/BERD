@@ -3,7 +3,7 @@ Biomedical Entity Relation Detection
 
 **Author:** *[Wooheon Hong](https://www.linkedin.com/in/wooheon-hong-b33621200/)*, *[Jaehyun Lee](https://www.linkedin.com/in/jaehyun-lee-56613a1ba/)* 
 
-**Date:** 2020.12.20 ~ 2021. 03. 29
+**Date:** 2020.12.21 ~ 2021. 03. 29
 
 This is biomedical entity relation network.
 
