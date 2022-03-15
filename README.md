@@ -13,7 +13,7 @@ Find the relationship between entities based on one sentence, consecutive senten
 
 It can supports relation network for three or more queries.
 
-![figure_BERD](BERD/resources/figure_BERD.PNG)
+![movie_BERD](BERD/resources/movie_BERD.GIF)
 
 
 
