@@ -1,4 +1,4 @@
-Biomedical Entity Relation Detection
+<img width="398" alt="image" src="https://github.com/user-attachments/assets/a9df2371-61d5-45a1-a05a-53197f7fd6c3">Biomedical Entity Relation Detection
 =====================================
 
 **Author:** *[Wooheon Hong](https://www.linkedin.com/in/wooheon-hong-b33621200/)*, *[Jaehyun Lee](https://www.linkedin.com/in/jaehyun-lee-56613a1ba/)* 
@@ -13,8 +13,12 @@ Find the relationship between entities based on one sentence, consecutive senten
 
 It can supports relation network for three or more queries.
 
+
 ![BERD_movie](BERD/resources/BERD_movie.gif)
 
+<img width="398" alt="image" src="https://github.com/user-attachments/assets/3842e1f0-819e-4012-b9d9-143b71f10632">
+
+<img width="371" alt="image" src="https://github.com/user-attachments/assets/177ce894-7354-46c6-b031-79b9649fe59c">
 
 
 # Requirements 
