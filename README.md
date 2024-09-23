@@ -16,9 +16,10 @@ It can supports relation network for three or more queries.
 
 ![BERD_movie](BERD/resources/BERD_movie.gif)
 
-<img width="398" alt="image" src="https://github.com/user-attachments/assets/3842e1f0-819e-4012-b9d9-143b71f10632">
+![BERD_movie](BERD/resources/BERD_process.gif)
 
-<img width="371" alt="image" src="https://github.com/user-attachments/assets/177ce894-7354-46c6-b031-79b9649fe59c">
+![BERD_movie](BERD/resources/BERD_network.gif)
+
 
 
 # Requirements 
