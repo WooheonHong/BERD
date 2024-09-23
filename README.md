@@ -1,4 +1,4 @@
-<img width="398" alt="image" src="https://github.com/user-attachments/assets/a9df2371-61d5-45a1-a05a-53197f7fd6c3">Biomedical Entity Relation Detection
+Biomedical Entity Relation Detection
 =====================================
 
 **Author:** *[Wooheon Hong](https://www.linkedin.com/in/wooheon-hong-b33621200/)*, *[Jaehyun Lee](https://www.linkedin.com/in/jaehyun-lee-56613a1ba/)* 
