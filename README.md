@@ -16,9 +16,9 @@ It can supports relation network for three or more queries.
 
 ![BERD_movie](BERD/resources/BERD_movie.gif)
 
-![BERD_movie](BERD/resources/BERD_process.gif)
+![BERD_process](BERD/resources/BERD_process.png)
 
-![BERD_movie](BERD/resources/BERD_network.gif)
+![BERD_network](BERD/resources/BERD_network.png)
 
 
 
